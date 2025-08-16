@@ -27,7 +27,7 @@ public:
             vy = -vy * bounce;
             static std::mt19937 gen(std::random_device{}());
             static std::uniform_real_distribution<double> dist(-0.05, 0.05);
-            vx += dist(gen);  
+            vx += dist(gen);
         }
     }
 };

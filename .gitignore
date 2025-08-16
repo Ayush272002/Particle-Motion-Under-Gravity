@@ -34,6 +34,9 @@ Thumbs.db
 particle*.so
 particle*.pyd
 
+# Video output
+*.mp4
+
 # Misc
 *.log
 *.tmp

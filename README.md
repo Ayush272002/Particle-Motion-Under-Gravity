@@ -47,10 +47,11 @@ This project uses a `Makefile` to automate setup and running:
 
 ## Output
 
+
 The simulation output can be visualized as a video below or through the Python script's visualization:
 
 <p align="center">
-   <video src="particle_bounce.mp4" controls width="480"></video>
+   <img src="particle_bounce.gif" alt="Particle motion simulation" width="480" />
 </p>
 
 ## License
