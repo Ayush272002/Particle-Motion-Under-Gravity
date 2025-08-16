@@ -12,7 +12,6 @@ This project simulates the motion of a particle under gravity, with a focus on v
 ## Files
 - `particle.cpp`: C++ source code for the simulation
 - `demo.py`: Python script for running and visualizing the simulation
-- `particle_bounce.mp4`: Example video showing the simulation result
 - `requirements.txt`: Python dependencies
 - `Makefile`: Build and run commands for the project
 
